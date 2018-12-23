@@ -19,6 +19,7 @@ ArrayList al= new ArrayList<>();
 		al.add(90);
 		al.add(100);
 		al.add(110);
+		System.out.println("git change");
 		
 		System.out.println(al);
 		List l1= Collections.synchronizedList(al);
